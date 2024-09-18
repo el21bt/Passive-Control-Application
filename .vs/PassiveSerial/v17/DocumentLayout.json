@@ -1,0 +1,245 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\xb139\\OneDrive\\Desktop\\PassiveSerial\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3E7A3A-01C4-9B45-82A1-B44411DE6D5E}|Assembly-CSharp.csproj|c:\\users\\xb139\\onedrive\\desktop\\passiveserial\\assets\\scripts\\arduinocommunication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3E7A3A-01C4-9B45-82A1-B44411DE6D5E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\arduinocommunication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3E7A3A-01C4-9B45-82A1-B44411DE6D5E}|Assembly-CSharp.csproj|C:\\Users\\xb139\\OneDrive\\Desktop\\PassiveSerial\\assets\\scripts\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3E7A3A-01C4-9B45-82A1-B44411DE6D5E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3E7A3A-01C4-9B45-82A1-B44411DE6D5E}|Assembly-CSharp.csproj|C:\\Users\\xb139\\OneDrive\\Desktop\\PassiveSerial\\assets\\scripts\\calibratedialogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3E7A3A-01C4-9B45-82A1-B44411DE6D5E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\calibratedialogue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3E7A3A-01C4-9B45-82A1-B44411DE6D5E}|Assembly-CSharp.csproj|C:\\Users\\xb139\\OneDrive\\Desktop\\PassiveSerial\\assets\\scripts\\motorcontrolcalibration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3E7A3A-01C4-9B45-82A1-B44411DE6D5E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\motorcontrolcalibration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3E7A3A-01C4-9B45-82A1-B44411DE6D5E}|Assembly-CSharp.csproj|C:\\Users\\xb139\\OneDrive\\Desktop\\PassiveSerial\\assets\\scripts\\choosespeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3E7A3A-01C4-9B45-82A1-B44411DE6D5E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\choosespeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3E7A3A-01C4-9B45-82A1-B44411DE6D5E}|Assembly-CSharp.csproj|C:\\Users\\xb139\\OneDrive\\Desktop\\PassiveSerial\\assets\\scripts\\angledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3E7A3A-01C4-9B45-82A1-B44411DE6D5E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\angledata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3E7A3A-01C4-9B45-82A1-B44411DE6D5E}|Assembly-CSharp.csproj|C:\\Users\\xb139\\OneDrive\\Desktop\\PassiveSerial\\assets\\scripts\\angledisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3E7A3A-01C4-9B45-82A1-B44411DE6D5E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\angledisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3E7A3A-01C4-9B45-82A1-B44411DE6D5E}|Assembly-CSharp.csproj|C:\\Users\\xb139\\OneDrive\\Desktop\\PassiveSerial\\assets\\scripts\\motorcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3E7A3A-01C4-9B45-82A1-B44411DE6D5E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\motorcontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3E7A3A-01C4-9B45-82A1-B44411DE6D5E}|Assembly-CSharp.csproj|C:\\Users\\xb139\\OneDrive\\Desktop\\PassiveSerial\\assets\\scripts\\repetitionsdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3E7A3A-01C4-9B45-82A1-B44411DE6D5E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\repetitionsdisplay.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3E7A3A-01C4-9B45-82A1-B44411DE6D5E}|Assembly-CSharp.csproj|C:\\Users\\xb139\\OneDrive\\Desktop\\PassiveSerial\\assets\\scripts\\buttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3E7A3A-01C4-9B45-82A1-B44411DE6D5E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\buttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3E7A3A-01C4-9B45-82A1-B44411DE6D5E}|Assembly-CSharp.csproj|C:\\Users\\xb139\\OneDrive\\Desktop\\PassiveSerial\\assets\\scripts\\mainmenubuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3E7A3A-01C4-9B45-82A1-B44411DE6D5E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenubuttons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3E7A3A-01C4-9B45-82A1-B44411DE6D5E}|Assembly-CSharp.csproj|C:\\Users\\xb139\\OneDrive\\Desktop\\PassiveSerial\\assets\\scripts\\choosereps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3E7A3A-01C4-9B45-82A1-B44411DE6D5E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\choosereps.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D3E7A3A-01C4-9B45-82A1-B44411DE6D5E}|Assembly-CSharp.csproj|C:\\Users\\xb139\\OneDrive\\Desktop\\PassiveSerial\\assets\\scripts\\chooseangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D3E7A3A-01C4-9B45-82A1-B44411DE6D5E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\chooseangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\xb139\\OneDrive\\Desktop\\PassiveSerial\\Assets\\Scripts\\SceneLoadEventListener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\SceneLoadEventListener.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CalibrateDialogue.cs",
+              "DocumentMoniker": "C:\\Users\\xb139\\OneDrive\\Desktop\\PassiveSerial\\Assets\\Scripts\\CalibrateDialogue.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CalibrateDialogue.cs",
+              "ToolTip": "C:\\Users\\xb139\\OneDrive\\Desktop\\PassiveSerial\\Assets\\Scripts\\CalibrateDialogue.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CalibrateDialogue.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEIAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T10:31:10.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ArduinoCommunication.cs",
+              "DocumentMoniker": "C:\\Users\\xb139\\OneDrive\\Desktop\\PassiveSerial\\Assets\\Scripts\\ArduinoCommunication.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ArduinoCommunication.cs",
+              "ToolTip": "C:\\Users\\xb139\\OneDrive\\Desktop\\PassiveSerial\\Assets\\Scripts\\ArduinoCommunication.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ArduinoCommunication.cs",
+              "ViewState": "AQIAAEoAAAAAAAAAAAA9wDIAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T13:16:46.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AngleData.cs",
+              "DocumentMoniker": "C:\\Users\\xb139\\OneDrive\\Desktop\\PassiveSerial\\Assets\\Scripts\\AngleData.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AngleData.cs",
+              "ToolTip": "C:\\Users\\xb139\\OneDrive\\Desktop\\PassiveSerial\\Assets\\Scripts\\AngleData.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AngleData.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T11:34:43.596Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VideoController.cs",
+              "DocumentMoniker": "C:\\Users\\xb139\\OneDrive\\Desktop\\PassiveSerial\\Assets\\Scripts\\VideoController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\VideoController.cs",
+              "ToolTip": "C:\\Users\\xb139\\OneDrive\\Desktop\\PassiveSerial\\Assets\\Scripts\\VideoController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\VideoController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T15:58:42.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MotorControlCalibration.cs",
+              "DocumentMoniker": "C:\\Users\\xb139\\OneDrive\\Desktop\\PassiveSerial\\Assets\\Scripts\\MotorControlCalibration.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MotorControlCalibration.cs",
+              "ToolTip": "C:\\Users\\xb139\\OneDrive\\Desktop\\PassiveSerial\\Assets\\Scripts\\MotorControlCalibration.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MotorControlCalibration.cs",
+              "ViewState": "AQIAAPQAAAAAAAAAAAAcwA4BAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-11T14:36:32.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ChooseSpeed.cs",
+              "DocumentMoniker": "C:\\Users\\xb139\\OneDrive\\Desktop\\PassiveSerial\\Assets\\Scripts\\ChooseSpeed.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChooseSpeed.cs",
+              "ToolTip": "C:\\Users\\xb139\\OneDrive\\Desktop\\PassiveSerial\\Assets\\Scripts\\ChooseSpeed.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ChooseSpeed.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCgAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T15:55:16.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AngleDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\xb139\\OneDrive\\Desktop\\PassiveSerial\\Assets\\Scripts\\AngleDisplay.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AngleDisplay.cs",
+              "ToolTip": "C:\\Users\\xb139\\OneDrive\\Desktop\\PassiveSerial\\Assets\\Scripts\\AngleDisplay.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AngleDisplay.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAkwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T11:34:42.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RepetitionsDisplay.cs",
+              "DocumentMoniker": "C:\\Users\\xb139\\OneDrive\\Desktop\\PassiveSerial\\Assets\\Scripts\\RepetitionsDisplay.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\RepetitionsDisplay.cs",
+              "ToolTip": "C:\\Users\\xb139\\OneDrive\\Desktop\\PassiveSerial\\Assets\\Scripts\\RepetitionsDisplay.cs",
+              "RelativeToolTip": "Assets\\Scripts\\RepetitionsDisplay.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T13:16:46.116Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MotorControl.cs",
+              "DocumentMoniker": "C:\\Users\\xb139\\OneDrive\\Desktop\\PassiveSerial\\Assets\\Scripts\\MotorControl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MotorControl.cs",
+              "ToolTip": "C:\\Users\\xb139\\OneDrive\\Desktop\\PassiveSerial\\Assets\\Scripts\\MotorControl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MotorControl.cs",
+              "ViewState": "AQIAAJQAAAAAAAAAAAAAAJcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T13:16:46.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "MainMenuButtons.cs",
+              "DocumentMoniker": "C:\\Users\\xb139\\OneDrive\\Desktop\\PassiveSerial\\Assets\\Scripts\\MainMenuButtons.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenuButtons.cs",
+              "ToolTip": "C:\\Users\\xb139\\OneDrive\\Desktop\\PassiveSerial\\Assets\\Scripts\\MainMenuButtons.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenuButtons.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAswCoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T11:36:28.516Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Buttons.cs",
+              "DocumentMoniker": "C:\\Users\\xb139\\OneDrive\\Desktop\\PassiveSerial\\Assets\\Scripts\\Buttons.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Buttons.cs",
+              "ToolTip": "C:\\Users\\xb139\\OneDrive\\Desktop\\PassiveSerial\\Assets\\Scripts\\Buttons.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Buttons.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAswCoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-15T15:52:13.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ChooseReps.cs",
+              "DocumentMoniker": "C:\\Users\\xb139\\OneDrive\\Desktop\\PassiveSerial\\Assets\\Scripts\\ChooseReps.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChooseReps.cs",
+              "ToolTip": "C:\\Users\\xb139\\OneDrive\\Desktop\\PassiveSerial\\Assets\\Scripts\\ChooseReps.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ChooseReps.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAkwAgAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-09T13:16:46.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ChooseAngle.cs",
+              "DocumentMoniker": "C:\\Users\\xb139\\OneDrive\\Desktop\\PassiveSerial\\Assets\\Scripts\\ChooseAngle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ChooseAngle.cs",
+              "ToolTip": "C:\\Users\\xb139\\OneDrive\\Desktop\\PassiveSerial\\Assets\\Scripts\\ChooseAngle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ChooseAngle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T11:50:29.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "SceneLoadEventListener.cs",
+              "DocumentMoniker": "C:\\Users\\xb139\\OneDrive\\Desktop\\PassiveSerial\\Assets\\Scripts\\SceneLoadEventListener.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SceneLoadEventListener.cs",
+              "ToolTip": "C:\\Users\\xb139\\OneDrive\\Desktop\\PassiveSerial\\Assets\\Scripts\\SceneLoadEventListener.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SceneLoadEventListener.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-12T15:08:34.289Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
